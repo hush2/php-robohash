@@ -1,0 +1,12 @@
+web1:
+  name: robohash
+  php_version: 5.3.8
+  document_root: /
+  shared_writable_dirs:
+    - /cache  
+  php_extensions:
+    - bcmath
+    - imagick
+    - eaccelerator
+  #after_deploy:
+  #  - 'rm -f /cache/*'

@@ -1,0 +1,93 @@
+@import url('bootstrap.min.css');
+
+body {
+    background-color: #212831; 
+    color: #fff;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+
+hr {
+    color: #505050;
+    background-color: #505050;
+    height: 1px;
+    border: 0;
+    width: 80%;
+}
+
+.generate{
+    padding-left: 60px;;
+}
+
+.random{
+    padding-left: 40px;;
+}
+
+
+.right_panel { 
+    margin-top: 58px; 
+}
+
+.opts label {
+    width: 90px;
+    float:left;
+    color: #ccc;
+}
+.clear {
+    clear: both;
+}
+
+.link {
+    margin-top: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin: 25px 0;
+    color: #737D84;
+}
+
+.input-mini {
+     width: 12%;
+}
+
+.opts {
+    margin-bottom: 6px ;
+}
+
+.spacer {
+    padding: 12px 0;
+}
+
+select {
+    width: 70px;
+}
+
+.footer {    
+    text-align: left;
+    margin-top: 20px;
+    /* color: #505050; */
+    color: #808080;
+}
+.footer a {
+    color: #80C0C0;
+}
+.footer p {
+    line-height: 60%;
+}
+
+img { 
+    display: block;
+    margin: 2px auto 40px auto;   
+}
+
+.logo {
+    margin-top: 20px;
+}
+
+.grav {
+    padding-top: 6px;
+    padding-bottom: 12px;
+ 
+}
