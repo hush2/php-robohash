@@ -9,4 +9,4 @@ http://robohash.pagodabox.com
 
 ## Credits to ##
 
-- Colin Davis for [Robohash](http://robohash.org).
+- Colin Davis for [Robohash](https://github.com/e1ven/Robohash).
