@@ -11,7 +11,7 @@ if (isset($_SERVER['HTTP_X_FORWARDED_FOR'])) {
 $robo_url = $host . $remote . '?set=set1&size=300x300';
 ?>
 
-<!doctypehtml>
+<!doctype html>
 <html>
 
 <head>
